@@ -25,7 +25,6 @@ I am a Mechanical Engineer with a passion for Python programming, automation, an
 - **Certified Artificial Intelligence Developer Program**
   - Presidential Initiative for Artificial Intelligence and Computing (PIAIC)
   - Batch 37, Roll # PIAIC100603
-  - [Certification Email](https://mail.google.com/mail/u/0/#inbox/ZWZkNTQ0NGY0OGViNTcwYjc2YzEwMzZiYmE2ZjU5N2Y1MGQ3YTc0OGUyZDQ5MThlOTU1NzFlY2ZhZjk1OWQ3NGE4NjRhNzRjN2QzMTY5ZTBiYzA1YjBhOWFjMWQ0YjYy)
 
 ## Work Experience
 ### Python Freelancer | Fiverr
