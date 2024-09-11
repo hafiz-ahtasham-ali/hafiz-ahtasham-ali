@@ -17,7 +17,7 @@ I am a Mechanical Engineer with a passion for Python programming, automation, an
 - **Other:** Frontend Technologies, Unit Testing, Debugging, Security & Data Protection
 
 ## Education
-- **Bachelor of Science in Mechanical Engineering**
+- **Bachelor of Science**
   - University of Engineering and Technology, Taxila
   - 14/10/2019 – 18/08/2023
 
