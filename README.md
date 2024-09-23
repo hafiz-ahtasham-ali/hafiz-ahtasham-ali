@@ -18,7 +18,7 @@ I am a Mechanical Engineer with a passion for Python programming, automation, an
 
 ## Education
 - **Bachelor of Science**
-  - University of Engineering and Technology, Taxila
+  - University of Engineering and Technology Taxila
   - 14/10/2019 – 18/08/2023
 
 ## Certifications
