@@ -4,7 +4,6 @@
 - **Nationality:** Pakistani
 - **Phone:** (+92) 3090052353 (Mobile)
 - **Email:** [hafizahtasham07@gmail.com](mailto:hafizahtasham07@gmail.com)
-- **LinkedIn:** [linkedin.com/in/hafiz-ahtasham-ali](https://linkedin.com/in/hafiz-ahtasham-ali)
 
 ## About Me
 I am a Mechanical Engineer with a passion for Python programming, automation, and AI. I specialize in developing chatbots, web applications, and automation solutions. My goal is to leverage my skills to create innovative solutions and contribute to impactful projects.
