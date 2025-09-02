@@ -9,9 +9,9 @@
 I am an Engineer with a passion for Python programming, automation, and AI. I specialize in developing chatbots, web applications, and automation solutions. My goal is to leverage my skills to create innovative solutions and contribute to impactful projects.
 
 ## Skills
-- **Programming:** Python, Flask, JavaScript, CSS3, HTML5
-- **Database:** SQLite, Database Schema Design
-- **Tools:** Selenium, Git, Google Apps Script
+- **Programming:** Python, Flask, FastAPI, React, JavaScript, CSS3, HTML5
+- **Database:** SQLite, PostgreSQL, Database Schema Design
+- **Tools:** Selenium, Playwright, Git, Google Apps Script
 - **AI & Machine Learning:** AI concepts, Large Language Models (LLMs), Hugging Face models, Prompt Engineering, LangChain
 - **Other:** Frontend Technologies, Unit Testing, Debugging, Security & Data Protection
 
