@@ -6,7 +6,7 @@
 - **Email:** [hafizahtasham07@gmail.com](mailto:hafizahtasham07@gmail.com)
 
 ## About Me
-I am an Engineer with a passion for Python programming, automation, and AI. I specialize in developing chatbots, web applications, and automation solutions. My goal is to leverage my skills to create innovative solutions and contribute to impactful projects.
+I am an Engineer with skills in Python programming, automation, and AI. I specialize in developing chatbots, web applications, and automation solutions. My goal is to leverage my skills to create innovative solutions and contribute to impactful projects.
 
 ## Skills
 - **Programming:** Python, Flask, FastAPI, React, JavaScript, CSS3, HTML5
